@@ -19,3 +19,7 @@ CONTOHNYA :
 ![alt text](https://github.com/Reval2703/Lab2Web/blob/main/Screenshot%202024-10-07%20115451.png)
 
 Semua tulisan h1 akan berwarna blueviolet, tetapi jika tulisan #intro yang akan brown karena gaya yang lebih spesifik dari #intro h1
+
+3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
+elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
+penjelasan dan contohnya!
