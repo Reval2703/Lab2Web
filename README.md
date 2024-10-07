@@ -44,3 +44,7 @@ Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 Ketika html mempunyai deklarasi seperti id dan class maka akan muncul pada hasilnya adalah id karena spesifisitas id lebih tinggi 
 CONTOH: 
 
+![alt text](https://github.com/Reval2703/Lab2Web/blob/main/Screenshot%202024-10-07%20120639.png)
+
+CONTOH CSS NYA:
+
