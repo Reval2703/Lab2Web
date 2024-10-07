@@ -35,9 +35,12 @@ contoh css:
 
 Maka hasilnya yang keluar adalah:
 
-![alt text]()
+![alt text](https://github.com/Reval2703/Lab2Web/blob/main/Screenshot%202024-10-07%20120525.png)
 
+4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
+terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
+Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 
-
-
+Ketika html mempunyai deklarasi seperti id dan class maka akan muncul pada hasilnya adalah id karena spesifisitas id lebih tinggi 
+CONTOH: 
 
