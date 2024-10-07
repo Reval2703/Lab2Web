@@ -52,4 +52,4 @@ CONTOH CSS NYA:
 
 Hasil akhirnya: 
 
-![alt text](https://github.com/Reval2703/Lab2Web/blob/main/Screenshot%202024-10-07%20120810.png)
+![alt text](https://github.com/Reval2703/Lab2Web/blob/main/Screenshot%202024-10-07%20120843.png)
