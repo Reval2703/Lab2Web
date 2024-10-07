@@ -48,3 +48,8 @@ CONTOH:
 
 CONTOH CSS NYA:
 
+![alt text](https://github.com/Reval2703/Lab2Web/blob/main/Screenshot%202024-10-07%20120810.png)
+
+Hasil akhirnya: 
+
+![alt text](https://github.com/Reval2703/Lab2Web/blob/main/Screenshot%202024-10-07%20120810.png)
