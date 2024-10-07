@@ -12,4 +12,10 @@ Disisni saya mengubah warna dan hover dibagian nav nya menjadi hitam dan hoverny
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
 penjelasannya!
 
-![alt text](https://github.com/Reval2703/Lab2Web/blob/main/Screenshot%202024-10-07%20115131.png)
+
+Perbedaannya adalah jika hanya menuliskan h1 saja tanpa adanya # itu tandanya elemen h1 tersebut tidak diberikan id, jika #intro h1 itu tadanya elemen tersebut mempunyai sebuah id
+CONTOHNYA :
+
+![alt text](https://github.com/Reval2703/Lab2Web/blob/main/Screenshot%202024-10-07%20115451.png)
+
+Semua tulisan h1 akan berwarna blueviolet, tetapi jika tulisan #intro yang akan brown karena gaya yang lebih spesifik dari #intro h1
