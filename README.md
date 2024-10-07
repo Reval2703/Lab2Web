@@ -29,7 +29,14 @@ CONTOH:
 
 ![alt text](https://github.com/Reval2703/Lab2Web/blob/main/Screenshot%202024-10-07%20120016.png)
 
-contoh css
+contoh css:
+
+![alt text](https://github.com/Reval2703/Lab2Web/blob/main/Screenshot%202024-10-07%20120437.png)
+
+Maka hasilnya yang keluar adalah:
+
+![alt text]()
+
 
 
 
